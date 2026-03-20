@@ -1,29 +1,31 @@
 [
-  {
-    "id": 1,
-    "name": "Amit Sharma",
-    "city": "Delhi",
-    "age": 32,
-    "gender": "male",
-    "height": 1.75,
-    "weight": 72
-  },
-  {
-    "id": 2,
-    "name": "Priya Verma",
-    "city": "Mumbai",
-    "age": 28,
-    "gender": "female",
-    "height": 1.65,
-    "weight": 60
-  },
-  {
-    "id": 3,
-    "name": "Rahul Singh",
-    "city": "Lucknow",
-    "age": 45,
-    "gender": "male",
-    "height": 1.72,
-    "weight": 78
-  }
+    {
+        "id": 1,
+        "name": "Amit Sharma",
+        "city": "Delhi",
+        "age": 32,
+        "gender": "male",
+        "height": 1.75,
+        "weight": 72
+    },
+    {
+        "id": 2,
+        "name": "Arpit Singh",
+        "city": "Mumbai",
+        "age": 28,
+        "gender": "female",
+        "height": 1.65,
+        "weight": 60.0,
+        "bmi": 22.04,
+        "verdict": "normal"
+    },
+    {
+        "id": 3,
+        "name": "Rahul Singh",
+        "city": "Lucknow",
+        "age": 45,
+        "gender": "male",
+        "height": 1.72,
+        "weight": 78
+    }
 ]
